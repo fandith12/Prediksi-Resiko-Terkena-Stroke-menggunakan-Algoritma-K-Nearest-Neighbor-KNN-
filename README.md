@@ -1,0 +1,1 @@
+# Prediksi-Resiko-Terkena-Stroke-menggunakan-Algoritma-K-Nearest-Neighbor-KNN-
